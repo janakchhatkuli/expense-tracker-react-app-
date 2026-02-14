@@ -1,11 +1,11 @@
 # expense-tracker-react-app-
-# 💰 Expense Tracker Web App
+# Expense Tracker Web App
 
 ### A React-Based Modular Web Application
 
 ---
 
-## 📌 Introduction
+##  Introduction
 
 This project is a modern **Expense Tracker Web Application** developed using **React.js** and **Vite**.
 The application allows users to manage daily expenses, categorize them, and dynamically calculate totals using a responsive and interactive interface.
@@ -14,7 +14,7 @@ This project demonstrates practical implementation of **React fundamentals**, mo
 
 ---
 
-# 🧠 React Theory
+#  React Theory
 
 ## 1️⃣ What is React?
 
@@ -161,7 +161,7 @@ Advantages:
 
 ---
 
-# 🚀 Project Features
+# Project Features
 
 * Add new expenses
 * Delete expenses
@@ -173,7 +173,7 @@ Advantages:
 
 ---
 
-# 🛠 Technologies Used
+# Technologies Used
 
 * React.js
 * Vite
@@ -223,7 +223,7 @@ http://localhost:5173
 
 ---
 
-# 📊 Working Principle
+# Working Principle
 
 1. User enters expense details.
 2. Data is stored in React state.
@@ -231,8 +231,8 @@ http://localhost:5173
 4. Total summary recalculates dynamically.
 5. User can filter or delete expenses.
 
+# Discussion
+The Expense Tracker Web Application demonstrates the practical implementation of React concepts such as component-based architecture, state management using hooks, and dynamic rendering. The modular structure improved code organization and maintainability. Real-time updates of expenses and totals show how React efficiently handles UI changes using the Virtual DOM. The project also applies responsive design principles for better user experience.
 
-# 👨‍💻 Author
-
-Janak Chhatkuli
-Computer Engineering Student
+# Conclusion
+This project successfully implements a React-based web application using modern development practices. It strengthens understanding of components, hooks, state management, and modular architecture. The application is scalable and can be extended with backend integration and additional features in the future.
