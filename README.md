@@ -1,4 +1,4 @@
-# expense-tracker-react-app-
+
 # Expense Tracker Web App
 
 ### A React-Based Modular Web Application
